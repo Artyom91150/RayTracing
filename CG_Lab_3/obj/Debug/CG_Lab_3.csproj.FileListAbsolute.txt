@@ -1,0 +1,17 @@
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.csprojAssemblyReference.cache
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.Form1.resources
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.Properties.Resources.resources
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.csproj.GenerateResource.cache
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\CG_Lab_3.exe.config
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\CG_Lab_3.exe
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\CG_Lab_3.pdb
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\OpenTK.dll
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\OpenTK.pdb
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\OpenTK.xml
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\OpenTK.dll.config
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.csproj.CopyComplete
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.exe
+C:\Users\artyo\source\repos\CG_Lab_3\CG_Lab_3\obj\Debug\CG_Lab_3.pdb
